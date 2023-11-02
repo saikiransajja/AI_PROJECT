@@ -23,4 +23,4 @@ Fields include : <br>
 ## **Language**
 `Python` (Version - Python 3.11.1)
 ## **Libraries**
-The libraries that I have used in this project are : `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, and `Scikit-Learn`(`SimpleImputer`, `ColumnTransformer`, `OneHotEncoder`, `XGBRegressor`)
+The libraries that I have used in this project are : `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, and `Scikit-Learn`(`SimpleImputer`, `ColumnTransformer`, `OneHotEncoder`, `XGBRegressor`, `r2_score`, `mean_squared_error`, `mean_absolute_error`)
