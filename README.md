@@ -25,6 +25,6 @@ Fields include : <br>
 ## **Libraries**
 The libraries that I have used in this project are : `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, and `Scikit-Learn`(`SimpleImputer`, `ColumnTransformer`, `OneHotEncoder`, `XGBRegressor`, `r2_score`, `mean_squared_error`, `mean_absolute_error`)
 ## **Coding Environment**
-`Visual Studio Code`
-`Jupyter Notebook` (Version - IPython 8.17.2)
-`Anaconda` (Version - conda 23.7.4)
+`Visual Studio Code` <br>
+`Jupyter Notebook` (Version - IPython 8.17.2) <br>
+`Anaconda` (Version - conda 23.7.4) <br>
