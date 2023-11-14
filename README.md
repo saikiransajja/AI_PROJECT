@@ -28,5 +28,3 @@ The libraries that I have used in this project are : `Pandas`, `NumPy`, `Matplot
 `Visual Studio Code` <br>
 `Jupyter Notebook` (Version - IPython 8.17.2) <br>
 `Anaconda` (Version - conda 23.7.4) <br>
-## **GitHub**
-The whole code and a working `Jupyter Notebook` along with the visualizations have been implemented in my [Github Repository](https://github.com/saikiransajja/AI_PROJECT).
